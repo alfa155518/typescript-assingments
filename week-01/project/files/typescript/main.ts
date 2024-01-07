@@ -82,7 +82,7 @@
 // function showMsg(user?: string, age?: string | number, country?: string) {
 //     return `${user}${age}${country}`;
 //   }
-  
+
 //   console.log(showMsg());
 //   console.log(showMsg("Elzero"));
 //   console.log(showMsg("Elzero", 40));
@@ -107,3 +107,12 @@
 // printInConsole(1, 2, 3, 4, 5);
 // printInConsole("A", "B", "C");
 // printInConsole(true, false, false, true, true);
+
+
+
+
+
+
+
+
+// #############****************  Solutions Created  By Ahmed Hassob    *************################## //

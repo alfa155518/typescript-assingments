@@ -168,16 +168,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 //********** Assignment 7 *************//
 
 // interface Play {
@@ -218,4 +208,11 @@
 // player1.logOut("Good Bye"); // Logged Out, Good Bye
 
 
+
+
+
+
+
+
+// #############****************  Solutions Created  By Ahmed Hassob    *************################## //
 
